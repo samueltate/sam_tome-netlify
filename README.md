@@ -11,6 +11,38 @@ https://boring-lumiere-dba43d.netlify.com
 - [Drush](https://github.com/drush-ops/drush-launcher#installation---phar)
 - SQLite and the related PHP extensions
 
+# Docs
+
+https://tome.fyi/docs/getting-started/
+
+
+# To deploy content to live site  
+
+Fire up local site - open terminal and run following command
+
+```
+cd [path to your sam_tome-netify codebase]
+drush runserver 127.0.0.1:8888 
+```
+
+Open new terminal, cd to codebaase and run 
+
+```
+drush uli -l 127.0.0.1:8888
+```
+
+Do your drupal work. Add content and modules like any other site. 
+
+When ready to create static file run
+
+drush tome:static
+
+Then git add. git commit -m ... git push origin master. 
+
+Netlify will see change in repo and update static site.
+
+
+
 # Local usage
 
 To install Tome locally, run:
