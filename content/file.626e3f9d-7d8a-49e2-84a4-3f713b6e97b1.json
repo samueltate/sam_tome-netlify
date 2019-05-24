@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "626e3f9d-7d8a-49e2-84a4-3f713b6e97b1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "justice.gif"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-05\/justice.gif"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/gif"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 19002
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-24T04:48:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-24T04:48:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
