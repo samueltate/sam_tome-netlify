@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "f7c19796-1b45-4c1e-a4cb-f6502440304c"
+            "value": "4360c112-6548-4a3a-9dc4-88cb5d044843"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "type": [
         {
-            "target_id": "article",
+            "target_id": "page",
             "target_type": "node_type",
-            "target_uuid": "12005961-513f-40ba-b7ed-7d25db786953"
+            "target_uuid": "63e8a6f0-79db-41b7-956c-2d50c5d639f7"
         }
     ],
     "revision_timestamp": [
         {
-            "value": "2019-05-24T04:48:22+00:00",
+            "value": "2019-05-24T05:23:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -36,7 +36,7 @@
     ],
     "title": [
         {
-            "value": "Test Article"
+            "value": "It's the way of the Future"
         }
     ],
     "uid": [
@@ -47,19 +47,19 @@
     ],
     "created": [
         {
-            "value": "2019-05-24T04:47:48+00:00",
+            "value": "2019-05-24T05:08:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-05-24T04:48:22+00:00",
+            "value": "2019-05-24T05:23:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": true
+            "value": false
         }
     ],
     "sticky": [
@@ -79,46 +79,16 @@
     ],
     "path": [
         {
-            "alias": null,
+            "alias": "",
             "pid": null,
             "langcode": "en"
         }
     ],
     "body": [
         {
-            "value": "<p>This is a test article.&nbsp;<\/p>\r\n",
-            "format": "basic_html",
+            "value": "<h1>Hey<\/h1>\r\n\r\n<p>I built this with Tome. It's a static site that is created on the fly from a copy of Drupal I have running locally. When I make content edits, I commit them to git and this&nbsp;static site updates.&nbsp;<\/p>\r\n\r\n<h3>Super fast and cool.&nbsp;<\/h3>\r\n\r\n<p>Forms - <a href=\"https:\/\/www.netlify.com\/docs\/form-handling\/\">https:\/\/www.netlify.com\/docs\/form-handling\/<\/a><\/p>\r\n\r\n<p>AWS lamda functions? <a href=\"https:\/\/www.netlify.com\/products\/functions\/\">https:\/\/www.netlify.com\/products\/functions\/<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
             "summary": ""
-        }
-    ],
-    "comment": [
-        {
-            "status": 2,
-            "cid": 0,
-            "last_comment_timestamp": 1558673302,
-            "last_comment_name": null,
-            "last_comment_uid": 1,
-            "comment_count": 0
-        }
-    ],
-    "field_image": [
-        {
-            "alt": "some alt",
-            "title": "",
-            "width": 400,
-            "height": 320,
-            "target_type": "file",
-            "target_uuid": "626e3f9d-7d8a-49e2-84a4-3f713b6e97b1"
-        }
-    ],
-    "field_tags": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "96ade004-d37b-474b-8211-88e86be44d91"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "d2065844-200d-4962-b1cd-166223763391"
         }
     ]
 }
