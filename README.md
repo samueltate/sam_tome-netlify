@@ -1,11 +1,8 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/drupal-tome/netlify-template)
+# Live Site
 
-# Netlify template for Tome projects
+https://boring-lumiere-dba43d.netlify.com
 
-This project is a great place to start for building new Tome projects on Netlify.
 
-To get started, click the "Deploy to netlify" button above and deploy a copy of
-this template to Netlify. 
 
 # Requirements
 
