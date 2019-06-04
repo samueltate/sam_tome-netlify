@@ -16,6 +16,9 @@
             "target_uuid": "9e593539-daf6-4a37-aa28-a7af40a2e1ec"
         }
     ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
     "status": [
         {
             "value": true
@@ -49,6 +52,11 @@
         }
     ],
     "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
         {
             "value": true
         }

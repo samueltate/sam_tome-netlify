@@ -34,15 +34,15 @@
             "value": true
         }
     ],
-    "title": [
-        {
-            "value": "It's the way of the Future"
-        }
-    ],
     "uid": [
         {
             "target_type": "user",
             "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "title": [
+        {
+            "value": "It's the way of the Future"
         }
     ],
     "created": [
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "",
+            "alias": null,
             "pid": null,
             "langcode": "en"
         }
