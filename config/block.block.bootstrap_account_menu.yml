@@ -1,6 +1,6 @@
 uuid: ec83b881-ec2b-4e22-9ee6-ddfbf553cc30
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.account
@@ -23,4 +23,5 @@ settings:
   label_display: '0'
   level: 1
   depth: 2
+  expand_all_items: false
 visibility: {  }

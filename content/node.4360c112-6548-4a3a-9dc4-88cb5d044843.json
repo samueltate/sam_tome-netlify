@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-05-24T14:13:09+00:00",
+            "value": "2019-06-04T11:55:45+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-05-24T14:13:09+00:00",
+            "value": "2019-06-04T11:55:45+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -86,7 +86,7 @@
     ],
     "body": [
         {
-            "value": "<h1>Hey<\/h1>\r\n\r\n<p>I built this with Tome. It's a static site that is created on the fly from a copy of Drupal I have running locally. When I make content edits, I commit them to git and this&nbsp;static site updates.&nbsp;<\/p>\r\n\r\n<h3>Super fast and cool.&nbsp;<\/h3>\r\n\r\n<p>Forms - <a href=\"https:\/\/www.netlify.com\/docs\/form-handling\/\">https:\/\/www.netlify.com\/docs\/form-handling\/<\/a><\/p>\r\n\r\n<p>AWS lamda functions? <a href=\"https:\/\/www.netlify.com\/products\/functions\/\">https:\/\/www.netlify.com\/products\/functions\/<\/a><\/p>\r\n\r\n<p>Even more content.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><img alt=\"html\" data-entity-type=\"file\" data-entity-uuid=\"363225d5-4db1-43af-9dbd-cc56ff89b1a9\" height=\"260\" src=\"\/sites\/default\/files\/inline-images\/html.png\" width=\"260\" \/><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "value": "<h4>Let's Try out a basic Bootstrap Form<\/h4>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<form action=\"https:\/\/usebasin.com\/f\/7c6cbbf1d4bf\" method=\"POST\">\r\n<div class=\"form-group\"><label for=\"first name\">First Name<\/label> <input class=\"form-control\" id=\"firstname\" name=\"first\" type=\"text\" \/><\/div>\r\n\r\n<div class=\"form-group\"><label for=\"last name\">Last Name<\/label> <input class=\"form-control\" id=\"lastname\" name=\"last\" type=\"text\" \/><\/div>\r\n\r\n<div class=\"form-group\"><label for=\"email\">Email<\/label> <input class=\"form-control\" id=\"email\" name=\"email\" type=\"email\" \/><\/div>\r\n\r\n<div class=\"form-group\"><label for=\"countyselect1\">County<\/label> <select class=\"form-control\" id=\"countySelect1\" name=\"county\"><option>Wake<\/option><option>Watauga<\/option><option>Durham<\/option> <\/select><\/div>\r\n<button class=\"btn btn-primary\" type=\"submit\">Submit<\/button><\/form>\r\n",
             "format": "full_html",
             "summary": ""
         }
