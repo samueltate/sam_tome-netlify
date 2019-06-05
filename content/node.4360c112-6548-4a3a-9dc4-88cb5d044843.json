@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-06-05T21:07:49+00:00",
+            "value": "2019-06-05T21:29:43+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-06-05T21:07:49+00:00",
+            "value": "2019-06-05T21:29:43+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,14 +72,10 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
-            "alias": "",
+            "alias": "\/home",
             "pid": null,
             "langcode": "en"
         }

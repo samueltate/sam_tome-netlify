@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "f6f3bff7-90ba-4bf5-b725-df159a8226e9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "63e8a6f0-79db-41b7-956c-2d50c5d639f7"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-05T21:29:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "title": [
+        {
+            "value": "404"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-05T21:28:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-05T21:29:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/404",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>404 This Page Aint here!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

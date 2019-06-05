@@ -1,10 +1,10 @@
 uuid: 46147a01-4528-4e56-ba14-a4acd9da553d
-name: 'Sam''s Tome Site'
+name: 'Sam''s JAM'
 mail: admin@example.com
 slogan: Cool
 page:
-  403: ''
-  404: ''
+  403: /node/3
+  404: /node/3
   front: /node/1
 admin_compact_mode: false
 weight_select_max: 100

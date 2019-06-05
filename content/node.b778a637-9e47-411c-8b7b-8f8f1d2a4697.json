@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "b778a637-9e47-411c-8b7b-8f8f1d2a4697"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "63e8a6f0-79db-41b7-956c-2d50c5d639f7"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-06-05T21:34:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b7423ebd-c9b7-4f49-9251-855e3871c25b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Thanks"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-05T21:32:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-05T21:34:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/thank-you",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Nice!<\/h3>\r\n\r\n<p>The form has been submitted.<\/p>\r\n\r\n<p><a href=\"\/home\">Make another submission<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}
